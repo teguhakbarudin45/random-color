@@ -8,8 +8,8 @@
 
 
 #rgb {
-   background: tomato;
-   color: #222222;
+   background: rgb(255, 0, 81);
+   color: #fff;
    padding: 1rem;
    border-radius: 0.25rem;
    margin-bottom: 2.5rem;
